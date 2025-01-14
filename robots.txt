@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://erica-scarpa.github.io/what-makes-soup-soup/sitemap.xml
