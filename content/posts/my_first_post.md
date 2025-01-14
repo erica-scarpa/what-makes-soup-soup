@@ -1,11 +1,12 @@
 ---
 title: Title
 date: 2018-04-28T11:08:58+08:00
-author: erica-scarpa
+showAuthor: true
+authors:
+  - "erica-scarpa"
+  - "PitfallandDilemma"
 avatar: /img/erica.jpg
-cover: blog/test.png
-images:
-  - blog/test.png
+cover: blog/forest.jpg
 categories:
   - category1
 tags:

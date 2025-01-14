@@ -3,20 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/what-makes-soup-soup/posts/my_first_post/</loc>
-    <lastmod>2025-01-14T18:01:26+01:00</lastmod>
+    <loc>http://localhost:1313/what-makes-soup-soup/posts/multi-author/</loc>
+    <lastmod>2020-08-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/what-makes-soup-soup/posts/</loc>
-    <lastmod>2025-01-14T18:01:26+01:00</lastmod>
+    <lastmod>2020-08-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/what-makes-soup-soup/</loc>
-    <lastmod>2025-01-14T18:01:26+01:00</lastmod>
+    <lastmod>2020-08-10T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/what-makes-soup-soup/posts/my_first_post/</loc>
+    <lastmod>2018-04-28T11:08:58+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/what-makes-soup-soup/about/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
