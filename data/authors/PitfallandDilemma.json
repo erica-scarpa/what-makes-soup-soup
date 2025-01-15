@@ -1,7 +1,9 @@
 {
-    "name": "PitfallandDilemma",
+    "name": "Riccardo Valente",
     "bio": "Theme Creator",
+    "image": "img/blowfish_logo_hu10440971084165979012.png",
     "social": [
-        { "github": "https://github.com/PitfallandDilemma" }
+        { "github": "https://github.com/PitfallandDilemma" },
+        { "orcid" : "https://orcid.org/0000-0001-8620-0879" }
     ]
 }

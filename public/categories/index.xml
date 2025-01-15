@@ -1,19 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on What Makes Soup, Soup?</title>
+    <title>Categories on Heritage Science Ontology Working Group</title>
     <link>http://localhost:1313/what-makes-soup-soup/categories/</link>
-    <description>Recent content in Categories on What Makes Soup, Soup?</description>
+    <description>Recent content in Categories on Heritage Science Ontology Working Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2025 </copyright>
-    <lastBuildDate>Sat, 28 Apr 2018 11:08:58 +0800</lastBuildDate><atom:link href="http://localhost:1313/what-makes-soup-soup/categories/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>erica.scarpa@gmail.com (Erica Scarpa)</managingEditor>
+    <webMaster>erica.scarpa@gmail.com (Erica Scarpa)</webMaster>
+    <copyright>© 2025 Erica Scarpa</copyright>
+    <lastBuildDate>Wed, 15 Jan 2025 11:08:58 +0800</lastBuildDate><atom:link href="http://localhost:1313/what-makes-soup-soup/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Subdomain</title>
+      <link>http://localhost:1313/what-makes-soup-soup/categories/subdomain/</link>
+      <pubDate>Wed, 15 Jan 2025 11:08:58 +0800</pubDate>
+      <author>erica.scarpa@gmail.com (Erica Scarpa)</author>
+      <guid>http://localhost:1313/what-makes-soup-soup/categories/subdomain/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Workshop</title>
+      <link>http://localhost:1313/what-makes-soup-soup/categories/workshop/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <author>erica.scarpa@gmail.com (Erica Scarpa)</author>
+      <guid>http://localhost:1313/what-makes-soup-soup/categories/workshop/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Domain-Definition</title>
+      <link>http://localhost:1313/what-makes-soup-soup/categories/domain-definition/</link>
+      <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
+      <author>erica.scarpa@gmail.com (Erica Scarpa)</author>
+      <guid>http://localhost:1313/what-makes-soup-soup/categories/domain-definition/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Category1</title>
       <link>http://localhost:1313/what-makes-soup-soup/categories/category1/</link>
       <pubDate>Sat, 28 Apr 2018 11:08:58 +0800</pubDate>
-      
+      <author>erica.scarpa@gmail.com (Erica Scarpa)</author>
       <guid>http://localhost:1313/what-makes-soup-soup/categories/category1/</guid>
       <description></description>
       

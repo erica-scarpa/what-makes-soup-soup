@@ -11,46 +11,35 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
+  name = "Menu"
+  weight = 10
+
+[[main]]
+  name = "Provenance and Provenience"
+  parent = "Menu"
+  pageRef = "posts/provenance-provenience/"
+  weight = 20
+
+[[main]]
+  name = "Another topic"
+  parent = "Menu"
+  pageRef = "posts"
+  weight = 20
+
+[[main]]
 name = "Blog"
 pageRef = "posts"
-weight = 10
+weight = 30
 
-#[[main]]
-#  name = "Parent"
-#  weight = 20
+[[main]]
+  name = "About"
+  pageRef = "about"
+  weight = 20
 
-#[[main]]
-#  name = "example sub-menu 1"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
-
-#[[main]]
-#  name = "example sub-menu 2"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
-
-#[[subnavigation]]
-#  name = "An interesting topic"
-#  pageRef = "tags/interesting-topic"
-#  weight = 10
-
-#[[subnavigation]]
-#  name = "My Awesome Category"
-#  pre = "github"
-#  pageRef = "categories/awesome"
-#  weight = 20
-
-#[[main]]
-#  name = "Categories"
-#  pageRef = "categories"
-#  weight = 20
-
-#[[main]]
-#  name = "Tags"
-#  pageRef = "tags"
-#  weight = 30
+[[main]]
+  name = "Tags"
+  pageRef = "tags"
+  weight = 40
 
 
 # -- Footer Menu --
@@ -58,12 +47,12 @@ weight = 10
 # the copyright notice. Configure as per the main menu above.
 
 
-# [[footer]]
-#   name = "Tags"
-#   pageRef = "tags"
-#   weight = 10
+ [[footer]]
+   name = "Tags"
+   pageRef = "tags"
+   weight = 10
 
-# [[footer]]
-#   name = "Categories"
-#   pageRef = "categories"
-#   weight = 20
+ [[footer]]
+   name = "Authors"
+   pageRef = "authors"
+   weight = 20

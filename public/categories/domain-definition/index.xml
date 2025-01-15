@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Domain-Definition on Heritage Science Ontology Working Group</title>
+    <link>http://localhost:1313/what-makes-soup-soup/categories/domain-definition/</link>
+    <description>Recent content in Domain-Definition on Heritage Science Ontology Working Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>erica.scarpa@gmail.com (Erica Scarpa)</managingEditor>
+    <webMaster>erica.scarpa@gmail.com (Erica Scarpa)</webMaster>
+    <copyright>© 2025 Erica Scarpa</copyright>
+    <lastBuildDate>Mon, 10 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/what-makes-soup-soup/categories/domain-definition/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Multiple Authors</title>
+      <link>http://localhost:1313/what-makes-soup-soup/posts/multi-author/</link>
+      <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
+      <author>erica.scarpa@gmail.com (Erica Scarpa)</author>
+      <guid>http://localhost:1313/what-makes-soup-soup/posts/multi-author/</guid>
+      <description>In recent years, significant progress has been made in the field of Assyriology, leading to a renewal of the traditional methods upon which the discipline is built. These advancements range from the development of online databases for cuneiform texts to the incorporation of investigative tools from other disciplines, such as Social Network Analysis.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
