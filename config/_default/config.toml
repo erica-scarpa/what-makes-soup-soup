@@ -2,3 +2,10 @@
   tag = "tags"
   category = "categories"
   author = "authors"
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 1  
+

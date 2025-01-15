@@ -64,7 +64,7 @@
     <item>
       <title>Authors</title>
       <link>http://localhost:1313/what-makes-soup-soup/tags/authors/</link>
-      <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>erica.scarpa@gmail.com (Erica Scarpa)</author>
       <guid>http://localhost:1313/what-makes-soup-soup/tags/authors/</guid>
       <description></description>
@@ -74,7 +74,7 @@
     <item>
       <title>Config</title>
       <link>http://localhost:1313/what-makes-soup-soup/tags/config/</link>
-      <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>erica.scarpa@gmail.com (Erica Scarpa)</author>
       <guid>http://localhost:1313/what-makes-soup-soup/tags/config/</guid>
       <description></description>
@@ -84,19 +84,9 @@
     <item>
       <title>Docs</title>
       <link>http://localhost:1313/what-makes-soup-soup/tags/docs/</link>
-      <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>erica.scarpa@gmail.com (Erica Scarpa)</author>
       <guid>http://localhost:1313/what-makes-soup-soup/tags/docs/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Tag1</title>
-      <link>http://localhost:1313/what-makes-soup-soup/tags/tag1/</link>
-      <pubDate>Sat, 28 Apr 2018 11:08:58 +0800</pubDate>
-      <author>erica.scarpa@gmail.com (Erica Scarpa)</author>
-      <guid>http://localhost:1313/what-makes-soup-soup/tags/tag1/</guid>
       <description></description>
       
     </item>

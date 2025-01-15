@@ -14,8 +14,6 @@ tags:
 
 Provenance and provenience are two terms often used interchangeably, despite their distinct meanings. <strong>Provenance</strong> refers to the ownership history of a historical artifact, tracing its journey through time and the various hands that have held it. In contrast, <strong>provenience</strong> specifically denotes the findspot—the exact physical location where the artifact was discovered. While provenance logically encompasses provenience, it also extends further, including details about the artifact's custody and the transitions it may have undergone throughout its history.
 
- <!--more-->
-
 ## Subparagraph
 
 Nunc lacinia eget nisl id porttitor. Mauris sit amet risus rhoncus, rutrum urna eget, ultricies metus. Sed feugiat lacus dui, et congue leo dapibus quis. Morbi non vehicula arcu. Vestibulum sagittis ex quis ex cursus sollicitudin. Donec eu aliquet elit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque volutpat nisi massa, ac rutrum orci rhoncus a. Mauris consectetur nulla eros, in dignissim magna tristique in.

@@ -31,25 +31,5 @@
       
     </item>
     
-    <item>
-      <title>Domain-Definition</title>
-      <link>http://localhost:1313/what-makes-soup-soup/categories/domain-definition/</link>
-      <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
-      <author>erica.scarpa@gmail.com (Erica Scarpa)</author>
-      <guid>http://localhost:1313/what-makes-soup-soup/categories/domain-definition/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Category1</title>
-      <link>http://localhost:1313/what-makes-soup-soup/categories/category1/</link>
-      <pubDate>Sat, 28 Apr 2018 11:08:58 +0800</pubDate>
-      <author>erica.scarpa@gmail.com (Erica Scarpa)</author>
-      <guid>http://localhost:1313/what-makes-soup-soup/categories/category1/</guid>
-      <description></description>
-      
-    </item>
-    
   </channel>
 </rss>

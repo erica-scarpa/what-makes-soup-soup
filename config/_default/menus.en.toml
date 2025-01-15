@@ -17,7 +17,7 @@
 [[main]]
   name = "Provenance and Provenience"
   parent = "Menu"
-  pageRef = "posts/provenance-provenience/"
+  pageRef = "posts/provenance/"
   weight = 20
 
 [[main]]
@@ -32,14 +32,19 @@ pageRef = "posts"
 weight = 30
 
 [[main]]
+name = "Workshops"
+pageRef = "categories/workshop/"
+weight = 40
+
+[[main]]
   name = "About"
   pageRef = "about"
-  weight = 20
+  weight = 50
 
 [[main]]
   name = "Tags"
   pageRef = "tags"
-  weight = 40
+  weight = 60
 
 
 # -- Footer Menu --

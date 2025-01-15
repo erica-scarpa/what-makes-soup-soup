@@ -21,7 +21,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/what-makes-soup-soup/posts/round_table_venice/</loc>
+    <loc>http://localhost:1313/what-makes-soup-soup/posts/round-table-venice/</loc>
     <lastmod>2025-01-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -29,18 +29,6 @@
   <url>
     <loc>http://localhost:1313/what-makes-soup-soup/posts/new-post/multi-author/</loc>
     <lastmod>2024-08-10T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/what-makes-soup-soup/posts/multi-author/</loc>
-    <lastmod>2020-08-10T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/what-makes-soup-soup/posts/my_first_post/</loc>
-    <lastmod>2018-04-28T11:08:58+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
