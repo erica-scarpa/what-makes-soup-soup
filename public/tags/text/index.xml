@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Text on Heritage Science Ontology Working Group</title>
+    <link>http://localhost:1313/what-makes-soup-soup/tags/text/</link>
+    <description>Recent content in Text on Heritage Science Ontology Working Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>erica.scarpa@gmail.com (Erica Scarpa)</managingEditor>
+    <webMaster>erica.scarpa@gmail.com (Erica Scarpa)</webMaster>
+    <copyright>© 2025 Erica Scarpa</copyright>
+    <lastBuildDate>Mon, 20 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/what-makes-soup-soup/tags/text/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Writing System, Language, Ductus</title>
+      <link>http://localhost:1313/what-makes-soup-soup/posts/writing-system/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      <author>erica.scarpa@gmail.com (Erica Scarpa)</author>
+      <guid>http://localhost:1313/what-makes-soup-soup/posts/writing-system/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Inscription, Text, Witness</title>
+      <link>http://localhost:1313/what-makes-soup-soup/posts/text/</link>
+      <pubDate>Wed, 15 Jan 2025 11:08:58 +0800</pubDate>
+      <author>erica.scarpa@gmail.com (Erica Scarpa)</author>
+      <guid>http://localhost:1313/what-makes-soup-soup/posts/text/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

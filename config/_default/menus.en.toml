@@ -15,36 +15,48 @@
   weight = 10
 
 [[main]]
+  name = "Inscription, Text, Witness"
+  parent = "Menu"
+  pageRef = "posts/text/"
+  weight = 20
+
+[[main]]
   name = "Provenance and Provenience"
   parent = "Menu"
   pageRef = "posts/provenance/"
-  weight = 20
+  weight = 30
 
 [[main]]
-  name = "Another topic"
+  name = "Writing System, Language, Ductus"
   parent = "Menu"
-  pageRef = "posts"
-  weight = 20
+  pageRef = "posts/writing-system"
+  weight = 40
+
+[[main]]
+name = "Activities"
+weight = 30
 
 [[main]]
 name = "Blog"
+parent = "Activities"
 pageRef = "posts"
 weight = 30
 
 [[main]]
 name = "Workshops"
+parent = "Activities"
 pageRef = "categories/workshop/"
 weight = 40
+
+[[main]]
+  name = "Members"
+  pageRef = "members"
+  weight = 40
 
 [[main]]
   name = "About"
   pageRef = "about"
   weight = 50
-
-[[main]]
-  name = "Tags"
-  pageRef = "tags"
-  weight = 60
 
 
 # -- Footer Menu --
@@ -52,12 +64,12 @@ weight = 40
 # the copyright notice. Configure as per the main menu above.
 
 
- [[footer]]
-   name = "Tags"
-   pageRef = "tags"
-   weight = 10
+# [[footer]]
+#   name = "Tags"
+#   pageRef = "tags"
+#   weight = 10
 
- [[footer]]
-   name = "Authors"
-   pageRef = "authors"
-   weight = 20
+# [[footer]]
+#   name = "Authors"
+#   pageRef = "authors"
+#   weight = 20

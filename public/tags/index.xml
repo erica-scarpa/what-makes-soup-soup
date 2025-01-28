@@ -9,12 +9,42 @@
     <managingEditor>erica.scarpa@gmail.com (Erica Scarpa)</managingEditor>
     <webMaster>erica.scarpa@gmail.com (Erica Scarpa)</webMaster>
     <copyright>© 2025 Erica Scarpa</copyright>
-    <lastBuildDate>Wed, 15 Jan 2025 11:08:58 +0800</lastBuildDate><atom:link href="http://localhost:1313/what-makes-soup-soup/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/what-makes-soup-soup/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ductus</title>
+      <link>http://localhost:1313/what-makes-soup-soup/tags/ductus/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      <author>erica.scarpa@gmail.com (Erica Scarpa)</author>
+      <guid>http://localhost:1313/what-makes-soup-soup/tags/ductus/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Epigraphy</title>
+      <link>http://localhost:1313/what-makes-soup-soup/tags/epigraphy/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      <author>erica.scarpa@gmail.com (Erica Scarpa)</author>
+      <guid>http://localhost:1313/what-makes-soup-soup/tags/epigraphy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Language</title>
+      <link>http://localhost:1313/what-makes-soup-soup/tags/language/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      <author>erica.scarpa@gmail.com (Erica Scarpa)</author>
+      <guid>http://localhost:1313/what-makes-soup-soup/tags/language/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Provenance</title>
       <link>http://localhost:1313/what-makes-soup-soup/tags/provenance/</link>
-      <pubDate>Wed, 15 Jan 2025 11:08:58 +0800</pubDate>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
       <author>erica.scarpa@gmail.com (Erica Scarpa)</author>
       <guid>http://localhost:1313/what-makes-soup-soup/tags/provenance/</guid>
       <description></description>
@@ -24,7 +54,7 @@
     <item>
       <title>Provenience</title>
       <link>http://localhost:1313/what-makes-soup-soup/tags/provenience/</link>
-      <pubDate>Wed, 15 Jan 2025 11:08:58 +0800</pubDate>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
       <author>erica.scarpa@gmail.com (Erica Scarpa)</author>
       <guid>http://localhost:1313/what-makes-soup-soup/tags/provenience/</guid>
       <description></description>
@@ -34,9 +64,39 @@
     <item>
       <title>Tangible Heritage</title>
       <link>http://localhost:1313/what-makes-soup-soup/tags/tangible-heritage/</link>
-      <pubDate>Wed, 15 Jan 2025 11:08:58 +0800</pubDate>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
       <author>erica.scarpa@gmail.com (Erica Scarpa)</author>
       <guid>http://localhost:1313/what-makes-soup-soup/tags/tangible-heritage/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Text</title>
+      <link>http://localhost:1313/what-makes-soup-soup/tags/text/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      <author>erica.scarpa@gmail.com (Erica Scarpa)</author>
+      <guid>http://localhost:1313/what-makes-soup-soup/tags/text/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Writing System</title>
+      <link>http://localhost:1313/what-makes-soup-soup/tags/writing-system/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      <author>erica.scarpa@gmail.com (Erica Scarpa)</author>
+      <guid>http://localhost:1313/what-makes-soup-soup/tags/writing-system/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Inscription</title>
+      <link>http://localhost:1313/what-makes-soup-soup/tags/inscription/</link>
+      <pubDate>Wed, 15 Jan 2025 11:08:58 +0800</pubDate>
+      <author>erica.scarpa@gmail.com (Erica Scarpa)</author>
+      <guid>http://localhost:1313/what-makes-soup-soup/tags/inscription/</guid>
       <description></description>
       
     </item>
@@ -57,36 +117,6 @@
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
       <author>erica.scarpa@gmail.com (Erica Scarpa)</author>
       <guid>http://localhost:1313/what-makes-soup-soup/tags/semantic-web/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Authors</title>
-      <link>http://localhost:1313/what-makes-soup-soup/tags/authors/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>erica.scarpa@gmail.com (Erica Scarpa)</author>
-      <guid>http://localhost:1313/what-makes-soup-soup/tags/authors/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Config</title>
-      <link>http://localhost:1313/what-makes-soup-soup/tags/config/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>erica.scarpa@gmail.com (Erica Scarpa)</author>
-      <guid>http://localhost:1313/what-makes-soup-soup/tags/config/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Docs</title>
-      <link>http://localhost:1313/what-makes-soup-soup/tags/docs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>erica.scarpa@gmail.com (Erica Scarpa)</author>
-      <guid>http://localhost:1313/what-makes-soup-soup/tags/docs/</guid>
       <description></description>
       
     </item>
